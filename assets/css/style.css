@@ -1,0 +1,10 @@
+body{
+    background-image: url(../images/train-background.jpg);
+    background-size: contain;
+}
+.middle-piece{
+    background-color: rgb(188, 185, 143);
+}
+.top{
+    background-color: rgba(18, 168, 31, 0.658);
+}
